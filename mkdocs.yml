@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: Emerging Threats and Countermeasures 
+nav:
+    - Home: index.md
+    - Your Document Title: index.md
